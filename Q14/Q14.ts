@@ -3,3 +3,5 @@
 let gustList = ['Albert Einstein', 'Isaac Newton', 'Nikola Tesla']
 
 gustList.forEach(name => { console.log(`Would you like to join me for dinner Mr.${name}`) })
+
+export default  gustList
