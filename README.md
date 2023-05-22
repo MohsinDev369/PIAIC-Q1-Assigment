@@ -1,7 +1,7 @@
 # Quater 1 Assignment
 
-# name 
-Mohdin Akram
+# Name 
+Mohsin Akram
 # Roll No
 PIAIC194618
 
